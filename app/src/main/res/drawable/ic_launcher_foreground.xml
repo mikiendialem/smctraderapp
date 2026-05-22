@@ -1,0 +1,41 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Glowing Background Spotlight -->
+    <path
+        android:pathData="M54,24A30,30 0 1 0 54,84A30,30 0 1 0 54,24Z"
+        android:fillColor="#1506B6D4" />
+
+    <!-- Trend Vector Line (SMC Upward breakout continuation) -->
+    <path
+        android:pathData="M24,78 L42,65 Q60,48 60,48 L76,55 L90,26"
+        android:strokeColor="#06B6D4"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+
+    <!-- Glowing points representing SMC structure confirmations -->
+    <!-- Point 1: Liquidity Sweep sweep (stop hunt) -->
+    <path
+        android:pathData="M24,78A3,3 0 1 1 24,72A3,3 0 1 1 24,78Z"
+        android:fillColor="#EF4444" />
+        
+    <!-- Point 2: CHoCH structural breakout (trend shift confirmation) -->
+    <path
+        android:pathData="M60,48A4,4 0 1 1 60,40A4,4 0 1 1 60,48Z"
+        android:fillColor="#06B6D4" />
+
+    <!-- Point 3: OTE Entry block tap -->
+    <path
+        android:pathData="M76,55A3,3 0 1 1 76,49A3,3 0 1 1 76,55Z"
+        android:fillColor="#8B5CF6" />
+        
+    <!-- Point 4: Profit target target fulfilled -->
+    <path
+        android:pathData="M90,26A4,4 0 1 1 90,18A4,4 0 1 1 90,26Z"
+        android:fillColor="#10B981" />
+</vector>

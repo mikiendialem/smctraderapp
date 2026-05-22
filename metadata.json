@@ -1,0 +1,6 @@
+{
+  "name": "SmartMoney Journal",
+  "description": "A premium trading journal for forex and crypto traders based on Smart Money Concepts (SMC) with automated analytics and AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
